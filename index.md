@@ -18,9 +18,19 @@
 		 					"_email": {
 						      	"value": "tguirgis@testemail.com.invalid",
 						      	"isEditableByEndUser": true
+						    	},
+							"_firstName": {
+						      	"value": "Tony",
+						      	"isEditableByEndUser": true
+						    	},
+		 					"_lastName": {
+						      	"value": "Guirgis",
+						      	"isEditableByEndUser": true
 						    	}
 		 				  });
-						}); 
+                          
+						});
+
 
 			   embeddedservice_bootstrap.init(
 				    '00D1N000002CM0f',
